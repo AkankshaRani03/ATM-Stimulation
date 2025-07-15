@@ -5,9 +5,9 @@ The system emphasizes providing a secure, user-friendly experience while maintai
 
 <h3>Methodology</h3>
 <strong>System Architecture</strong><br>
-Frontend:</strong> Java Swing Framework for GUI design, providing an intuitive and interactive interface.<br>
-Backend:</strong> Java Core for handling business logic, account management, transaction processing, and data storage.<br>
-Design Pattern:</strong> Model-View-Controller (MVC) to ensure clear separation of concerns, making the system scalable and maintainable.<br>
+<strong>Frontend:</strong> Java Swing Framework for GUI design, providing an intuitive and interactive interface.<br>
+<strong>Backend:</strong> Java Core for handling business logic, account management, transaction processing, and data storage.<br>
+<strong>Design Pattern:</strong> Model-View-Controller (MVC) to ensure clear separation of concerns, making the system scalable and maintainable.<br>
 
 
 <strong>User Interface Development</strong><br>
@@ -23,7 +23,6 @@ GridBagLayout arranged UI components flexibly.<br>
 Interactive buttons with hover effects and tooltips were added to enhance user experience.<br>
 
 <strong>2. Core Functionality</strong>
-
 <strong>Account Management:</strong> Users can create, view, and manage accounts with secure PIN protection.<br>
 <strong>Transactions:</strong> Includes balance inquiry, cash withdrawal, cash deposit, and fund transfers. Each transaction updates the account balance.<br>
 <strong>Transaction History:</strong> Users can view a log of their past transactions.<br>
